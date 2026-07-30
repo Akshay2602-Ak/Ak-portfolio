@@ -86,7 +86,7 @@ export function HeroNav() {
             style={{ opacity: taglineOpacity }}
             className="eyebrow mb-6"
           >
-            Oracle Apps DBA · Cloud &amp; Networking 
+            {/* Oracle Apps DBA · Cloud &amp; Networking  */}
           </motion.p>
 
           <motion.h1
