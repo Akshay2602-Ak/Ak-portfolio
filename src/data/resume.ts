@@ -6,11 +6,11 @@ import { Link } from "lucide-react"
 
 export const profile = {
   name: 'Akshay Kumar T',
-  role: 'Oracle Apps DBA · Cloud & Networking · Automation',
+  role: 'Oracle Apps DBA · Cloud & Networking ',
   phone: '+91 9363867353',
   email: 'takshaykumar26022004@gmail.com',
   location: 'Coimbatore, India',
-  linkedin: 'https://www.linkedin.com/in/akshay-kumar-t-37bb9b285',
+  linkedin: 'https://www.linkedin.com/in/akshaykumar226',
   github: 'https://github.com/Akshay2602-Ak',
   tagline:
     'Software Engineer specializing in Oracle Applications DBA, enterprise automation, and full-stack development — with a growing focus on cloud, networking, and AI-driven operations.',
