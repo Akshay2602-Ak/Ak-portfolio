@@ -124,7 +124,7 @@ export const experience = [
     company: 'Technical Training & Hands-on Labs',
     role: 'Networking & Cloud Fundamentals',
     duration: '2026',
-    technologies: ['Cisco Packet Tracer', 'Cisco IOS CLI', 'AWS', 'GCP'],
+    technologies: ['Cisco Packet Tracer', 'Cisco IOS CLI', 'AWS'],
     responsibilities: [
       'Designed and configured Cisco Packet Tracer network topologies using IPv4/IPv6, static routing, and Cisco IOS CLI.',
       'Configured routers, switches, STP, Root Bridge election, Port Cost, and Layer 2 redundancy.',
