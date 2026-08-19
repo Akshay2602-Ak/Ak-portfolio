@@ -216,7 +216,7 @@ export const certifications = [
     title: 'CCNA-Level Networking Fundamentals',
     org: 'Cisco IOS, IPv4/IPv6, Routing, Switching, STP, ACLs & Cisco Packet Tracer', 
   },
-  { title: 'AWS & GCP Fundamentals', org: 'AWS / GCP' },
+  { title: 'AWS Fundamentals', org: 'AWS' },
   { title: 'GenAI & LLM Fundamentals', org: 'Cognizant Technology Solutions — Internal Upskilling Program' },
   {
     title: 'South Indian Hackathon (SIH) 2023–2024',

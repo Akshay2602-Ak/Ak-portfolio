@@ -93,9 +93,7 @@ export function HeroNav() {
             style={{ scale: nameScale, y: nameY, opacity: nameOpacity }}
             className="font-display text-[14vw] font-semibold leading-[0.95] tracking-tight text-ink sm:text-[9vw] lg:text-[7.5rem]"
           >
-            AKSHAY
-            <br />
-            KUMAR
+            AKSHAY KUMAR
           </motion.h1>
 
           <motion.p
