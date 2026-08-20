@@ -78,7 +78,7 @@ export const skillCategories = [
     id: 'cloud-devops',
     label: 'Cloud & DevOps',
     context: 'Freelance deployment + cloud fundamentals training',
-    skills: ['AWS', 'GCP', 'Docker', 'CI/CD', 'Linux (Ubuntu)', 'Git', 'GitHub', 'Vercel'],
+    skills: ['AWS', 'CI/CD', 'Linux (Ubuntu)', 'Git', 'GitHub', 'Vercel'],
   },
   {
     id: 'ai',
