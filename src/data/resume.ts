@@ -37,7 +37,7 @@ export const skillCategories = [
       'Data Guard',
       'Flashback Database',
       'Alert Log Monitoring',
-      'Oracle SQL Developer',
+    
     ],
   },
   {
