@@ -15,7 +15,7 @@ export const profile = {
   tagline:
     'Software Engineer specializing in Oracle Applications DBA, and full-stack web development — with a growing focus on cloud, networking, and AI-driven operations.',
   summary:
-    'Software Engineer with hands-on experience in Oracle Applications DBA, automation, and cloud infrastructure. Strong foundation in Python, Linux, networking, AWS, and enterprise infrastructure. Experienced with Oracle EBS R12, Cisco networking, AWS EC2, Git, CI/CD, and server administration. Skilled in infrastructure automation, troubleshooting, deployment, and scripting, with a growing focus on cloud engineering and modern infrastructure solutions..',
+    'Software Engineer with hands-on experience in Oracle DBA and cloud infrastructure. Strong foundation in Python, Linux, networking, AWS, and enterprise infrastructure. Experienced with Cisco networking, AWS EC2, Git, CI/CD, and server administration. Skilled in infrastructure automation, troubleshooting, deployment, and scripting, with a growing focus on cloud engineering and modern infrastructure solutions..',
 }
 
 export const skillCategories = [
