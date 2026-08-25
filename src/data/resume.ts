@@ -13,7 +13,7 @@ export const profile = {
   linkedin: 'https://www.linkedin.com/in/akshaykumar226',
   github: 'https://github.com/Akshay2602-Ak',
   tagline:
-    'Software Engineer specializing in Oracle Applications DBA, and full-stack web development — with a growing focus on cloud, networking, and AI-driven operations.',
+    'Software Engineer specializing in Oracle DBA, and full-stack web development — with a growing focus on cloud, networking, and AI-driven operations.',
   summary:
     'Software Engineer with hands-on experience in Oracle DBA and cloud infrastructure. Strong foundation in Python, Linux, networking, AWS, and enterprise infrastructure. Experienced with Cisco networking, AWS EC2, Git, CI/CD, and server administration. Skilled in infrastructure deployment, and scripting, with a growing focus on cloud engineering and modern infrastructure solutions.',
 }
