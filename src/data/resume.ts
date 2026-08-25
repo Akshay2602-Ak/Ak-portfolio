@@ -15,7 +15,7 @@ export const profile = {
   tagline:
     'Software Engineer specializing in Oracle Applications DBA, and full-stack web development — with a growing focus on cloud, networking, and AI-driven operations.',
   summary:
-    'Software Engineer with hands-on experience in Oracle DBA and cloud infrastructure. Strong foundation in Python, Linux, networking, AWS, and enterprise infrastructure. Experienced with Cisco networking, AWS EC2, Git, CI/CD, and server administration. Skilled in infrastructure automation, troubleshooting, deployment, and scripting, with a growing focus on cloud engineering and modern infrastructure solutions..',
+    'Software Engineer with hands-on experience in Oracle DBA and cloud infrastructure. Strong foundation in Python, Linux, networking, AWS, and enterprise infrastructure. Experienced with Cisco networking, AWS EC2, Git, CI/CD, and server administration. Skilled in infrastructure deployment, and scripting, with a growing focus on cloud engineering and modern infrastructure solutions..',
 }
 
 export const skillCategories = [
@@ -23,12 +23,12 @@ export const skillCategories = [
     id: 'programming',
     label: 'Programming',
     context: 'Used in professional & freelance projects',
-    skills: ['Python', 'PL/SQL', 'HTML5', 'CSS3', 'Tailwind CSS', 'Shell Script', 'JavaScript'],
+    skills: ['Python', 'PL/SQL', 'HTML5', 'CSS3', 'Shell Script', 'JavaScript'],
   },
   {
     id: 'oracle',
     label: 'Oracle',
-    context: 'Applied daily as Oracle Apps DBA at CTS',
+    context: 'Applied daily as Oracle Apps DBA at Cognizant Technology Solution(CTS)',
     skills: [
       'Oracle EBS R12',
       'Oracle SQL',
@@ -43,7 +43,7 @@ export const skillCategories = [
   {
     id: 'networking',
     label: 'Networking',
-    context: 'Hands-on labs, Networking & Cloud Fundamentals 2026',
+    context: 'Hands-on labs, Networking & Cloud Fundamentals',
     skills: [
       'TCP/IP',
       'OSI Model',
@@ -52,14 +52,13 @@ export const skillCategories = [
       'Static Routing',
       'OSPF',
       'RIP',
-      'EIGRP (Concepts)',
+      'EIGRP',
       'STP',
       'ACLs',
       'ARP',
       'ICMP',
       'DHCP',
-      'SLAAC',
-      'Wildcard Masks',
+      
     ],
   },
   {
@@ -78,7 +77,7 @@ export const skillCategories = [
     id: 'cloud-devops',
     label: 'Cloud & DevOps',
     context: 'Freelance deployment + cloud fundamentals training',
-    skills: ['AWS', 'CI/CD', 'Linux (Ubuntu)', 'Git', 'GitHub', 'Vercel'],
+    skills: ['AWS', 'CI/CD', 'Linux', 'Git', 'GitHub', 'Vercel'],
   },
   {
     id: 'ai',
@@ -113,7 +112,7 @@ export const experience = [
     company: 'Freelance Web Developer',
     role: 'Aesthete Canvaz Portfolio Website',
     duration: '2024 – 2025',
-    technologies: ['HTML5', 'Tailwind CSS', 'JavaScript', 'GitHub', 'Vercel'],
+    technologies: ['HTML5', 'Tailwind CSS', 'JavaScript', 'GitHub', 'Vercel','ChatGPT'],
     responsibilities: [
       'Designed, developed, and deployed a responsive portfolio website using HTML5, Tailwind CSS, and JavaScript.',
       'Managed version control and production deployment using GitHub and Vercel.',
