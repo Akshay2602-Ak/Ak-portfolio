@@ -15,7 +15,7 @@ export const profile = {
   tagline:
     'Software Engineer specializing in Oracle Applications DBA, and full-stack web development — with a growing focus on cloud, networking, and AI-driven operations.',
   summary:
-    'Strong foundation in Python, Linux, networking, AWS, and enterprise infrastructure. Experienced with Cisco networking, AWS EC2, Git, CI/CD, and server administration. Skilled in infrastructure deployment, and scripting, with a growing focus on cloud engineering and modern infrastructure solutions..',
+    'Software Engineer with hands-on experience in Oracle DBA and cloud infrastructure. Strong foundation in Python, Linux, networking, AWS, and enterprise infrastructure. Experienced with Cisco networking, AWS EC2, Git, CI/CD, and server administration. Skilled in infrastructure deployment, and scripting, with a growing focus on cloud engineering and modern infrastructure solutions.',
 }
 
 export const skillCategories = [
@@ -83,13 +83,13 @@ export const skillCategories = [
     id: 'ai',
     label: 'AI & GenAI',
     context: 'Applied at CTS + internal GenAI certification',
-    skills: ['LLM Fundamentals', 'Generative AI Tools', 'AI-based Process Automation', 'Prompt Engineering'],
+    skills: ['LLM Fundamentals', 'Generative AI Tools', 'Prompt Engineering'],
   },
   {
     id: 'tools',
     label: 'Tools & Platforms',
     context: 'Daily working tools',
-    skills: ['VS Code', 'Arduino', 'Oracle SQL Developer', 'Cisco Packet Tracer'],
+    skills: ['VS Code', 'Arduino', 'Oracle SQL Developer', 'Cisco Packet Tracer','PuTTY'],
   },
 ]
 
