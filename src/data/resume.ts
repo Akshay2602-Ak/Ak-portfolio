@@ -140,7 +140,7 @@ export const projects = [
   {
     title: 'Creators Career Development Platform',
     period: '2024 – 2025',
-    technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'MongoDB'],
+    technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'MongoDB','ChatGPT'],
     liveDemo: 'https://creators-career-web-development.vercel.app/login',
     description:
       'A full-stack web platform enabling creators to build customizable profiles, showcase projects, and access career development resources with a responsive, accessible UI.',
