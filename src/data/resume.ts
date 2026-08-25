@@ -98,7 +98,7 @@ export const experience = [
     company: 'Cognizant Technology Solutions (CTS)',
     role: 'Oracle Apps DBA',
     duration: 'Oct 2025 – Apr 2026',
-    technologies: ['Oracle EBS R12', 'RMAN', 'Shell Script', 'Flashback Database', 'Generative AI'],
+    technologies: ['Oracle EBS R12', 'RMAN', 'Shell Script', 'Flashback Database'],
     responsibilities: [
       'Managed Oracle EBS R12 database administration, including backup, recovery, and maintenance using RMAN.',
       'Automated database operations through Shell scripting, reducing manual DBA effort by 30%.',
