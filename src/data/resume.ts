@@ -89,7 +89,7 @@ export const skillCategories = [
     id: 'tools',
     label: 'Tools & Platforms',
     context: 'Daily working tools',
-    skills: ['VS Code', 'Arduino', 'Oracle SQL Developer', 'Cisco Packet Tracer','PuTTY'],
+    skills: ['VS Code', 'Arduino', 'Oracle SQL Developer', 'Cisco Packet Tracer','PuTTY', 'MobaXterm'],
   },
 ]
 
